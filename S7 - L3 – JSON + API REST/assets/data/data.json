@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "nome": "Federico",
+        "cognome": "Caramanti",
+        "citta": "Torino",
+        "anno": "1993",
+        "classe": {
+            "sezione": "5Bif",
+            "docenti": [
+                "Chiara Sferra",
+                "Tron"
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "nome": "Ines",
+        "cognome": "Quartini",
+        "citta": "Pinerolo",
+        "anno": "1960",
+        "classe": {
+            "sezione": "4",
+            "docenti": [
+                "Chiara Sferra",
+                "Tron"
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "nome": "Raffaele",
+        "cognome": "Orlando",
+        "citta": "Moncalieri",
+        "anno": "1980",
+        "classe": {
+            "sezione": "1B",
+            "docenti": [
+                "Chiara Sferra",
+                "Tron"
+            ]
+        }
+    },
+    {
+        "id": 4,
+        "nome": "Giulia",
+        "cognome": "Durando",
+        "citta": "Pinerolo",
+        "anno": "1999",
+        "classe": {
+            "docenti": [
+                "Chiara Sferra",
+                "Tron"
+            ]
+        }
+    }
+]
